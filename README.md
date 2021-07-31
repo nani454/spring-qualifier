@@ -17,8 +17,11 @@ If we don't use @Primnry and @Qualifier annotations below would be the error and
 ============================================================================================
 
 Field txtReader in com.nani454.learning.main.AppMain required a single bean, but 2 were found:
+
 	- CSVFileReader: defined in file [C:\XXXXX\spring-qualifier\target\classes\com\nani454\learning\service\CSVFileReader.class]
+	
 	- textFileReader: defined in file [C:\XXXXX\spring-qualifier\target\classes\com\nani454\learning\service\TextFileReader.class]
+
 
 
 Action:
