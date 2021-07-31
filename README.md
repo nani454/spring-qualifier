@@ -1,5 +1,5 @@
 # spring-qualifier
-A demo project to understand how spring qualifier works.
+A demo project to understand how spring qualifier and primary annotations work.
 
 # Use case
 Implement file readers for CSV and Text files
