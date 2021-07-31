@@ -4,7 +4,7 @@ A demo project to understand how spring qualifier works.
 # Use case
 Implement file readers for CSV and Text files
 
-#Implementation details
+# Implementation details
 
 Created an IFileReader interface and with multiple implementations of TextFileReader and CSVFileReader.
 
