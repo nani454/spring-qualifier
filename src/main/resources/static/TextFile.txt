@@ -1,0 +1,2 @@
+This is a text file for testing.
+Multiple lines are to be printed.
