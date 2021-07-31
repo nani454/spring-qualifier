@@ -2,7 +2,7 @@
 A demo project to understand how spring qualifier works.
 
 # Use case
-Implement multiple file readers for CSV and Text files
+Implement file readers for CSV and Text files
 
 #Implementation details
 
