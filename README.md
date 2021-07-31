@@ -10,7 +10,7 @@ Created an IFileReader interface and with multiple implementations of TextFileRe
 
 TextFileReader is annotated as Primary, so that default auto wiring of IFileReader across the classes will have TextFileReader implementation.
 
-CSVFileReader is annotated with a qualifier, giving the capability to autowire IFileReader for CSVFileReader implementation where ever needed.
+CSVFileReader is annotated with a Qualifier, giving the capability to autowire IFileReader for CSVFileReader implementation where ever needed.
 
 If we don't use @Primnry and @Qualifier annotations below would be the error and the recommended actions.
 
